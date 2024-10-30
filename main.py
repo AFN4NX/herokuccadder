@@ -64,7 +64,7 @@ async def heroku(cards):
         headers = {
             "accept": "application/vnd.heroku+json; version=3",
             "accept-language": "en-US,en;q=0.9",
-            "authorization": "Bearer HRKU-xxxx-xxxxxxxx-xxxxx-xxxxxx",  # Replace WIth Your Own Heroku API Key. https://dashboard.heroku.com/account
+            "authorization": "Bearer HRKU-e5235dea-74c4-43f5-85f5-658edadc7cac",  # Replace WIth Your Own Heroku API Key. https://dashboard.heroku.com/account
             "origin": "https://dashboard.heroku.com",
             "priority": "u=1, i",
             "referer": "https://dashboard.heroku.com/",
