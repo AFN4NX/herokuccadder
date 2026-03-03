@@ -18,7 +18,7 @@ Done if Your Card Added You Can See or Not You Can See the Card Response
 
 
 # 📋 Credits
-- credit goes to @AFN4NX
+- Credit goes to @AFN4NX
 
 ## ⚠️ DISCLAIMER / NOTES
 This Github Repo is for EDUCATIONAL PURPOSES ONLY. I am  NOT under any responsibility if a problem occurs. I will not be liable for any loss or damage arising from the use of my repo. Use the repo at your own risk.
