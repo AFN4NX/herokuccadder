@@ -1,6 +1,6 @@
 # 📲 A PYTHON SCRIPT TO ADD CARD ON YOUR HEROKU ACCOUNT VIA HEROKU API KEY
 
-# 🛡️ Follow This Steps
+# 🛡️ Follow This Steps=
 
 First Create a new heroku account or you can use your old heroku account. 
 
