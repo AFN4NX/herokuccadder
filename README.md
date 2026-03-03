@@ -12,7 +12,7 @@ Create a new folder and move the main.py and cards.txt file and add your cards c
 
 Example : `4242424242424242|10|2035|000`  . You Can Add Multiple Cards
 
-Now Run The main.py 
+Now Run The main.py file
 
 Done if Your Card Added You Can See or Not You Can See the Card Response
 
