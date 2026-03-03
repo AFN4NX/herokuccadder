@@ -10,7 +10,7 @@ On the main.py line 67 replace `HRKU-xxxx-xxxxxxxx-xxxxx-xxxxxx`  with your API 
 
 Create a new folder and move the main.py and cards.txt file and add your cards cards.txt file. card on pipe format.
 
-Example : `4242424242424242|10|2032|000`  . You Can Add Multiple Cards
+Example : `4242424242424242|10|2035|000`  . You Can Add Multiple Cards
 
 Now Run The main.py 
 
